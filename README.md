@@ -4,7 +4,9 @@ Linear regression (ML) model that predicts a wind turbine's power generation usi
 
 [Dataset size: ~140k](https://www.kaggle.com/datasets/gauravduttakiit/wind-turbine-power-generation-forecasting)
 
-Current MSE: 0.0344
+Current Stats:
+- Mean Absolute Error: 0.0904714827457416
+- Mean Squared Error: 0.015591585260396454
 
 ## Features (parameters)
 - Wind speed at 10 meters 
