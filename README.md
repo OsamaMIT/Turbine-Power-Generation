@@ -13,6 +13,8 @@ Current Stats:
 - Wind speed at 100 meters
 - Wind gust at 10 meters 
 - Time of day (in hours)
+- Wind direction at 10 meters
+- Wind direction at 100 meters
 
 ## Target
 - Power (normalized between 0 and 1)
